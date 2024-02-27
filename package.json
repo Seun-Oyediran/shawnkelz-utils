@@ -1,0 +1,22 @@
+{
+  "name": "shawnkelz-utils",
+  "version": "1.0.0",
+  "description": "A collection of utility function for Shawnkelz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seun-Oyediran/shawnkelz-utils.git"
+  },
+  "keywords": [
+    "Utils"
+  ],
+  "author": "Oyediran Seun (ShawnKelz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seun-Oyediran/shawnkelz-utils/issues"
+  },
+  "homepage": "https://github.com/Seun-Oyediran/shawnkelz-utils#readme"
+}
