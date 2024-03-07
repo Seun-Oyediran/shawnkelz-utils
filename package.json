@@ -1,6 +1,6 @@
 {
   "name": "shawnkelz-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A collection of utility function for Shawnkelz",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Seun-Oyediran/shawnkelz-utils.git"
+    "url": "https://github.com/Seun-Oyediran/shawnkelz-utils"
   },
   "keywords": [
     "Utils"
