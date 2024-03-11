@@ -1,6 +1,6 @@
 {
   "name": "shawnkelz-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A collection of utility function for Shawnkelz",
   "main": "index.js",
   "scripts": {
@@ -15,11 +15,8 @@
   ],
   "author": "Oyediran Seun (ShawnKelz)",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Seun-Oyediran/shawnkelz-utils/issues"
-  },
-  "homepage": "https://github.com/Seun-Oyediran/shawnkelz-utils#readme",
   "dependencies": {
+    "npm-eth-address-checker": "^1.0.3",
     "randomcolor": "^0.6.2"
   }
 }
